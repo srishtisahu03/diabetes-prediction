@@ -24,8 +24,7 @@ DIABETES-PREDICTION/
 ├── images/
 │   ├── (plots & visualizations)
 │
-├── models/
-│   ├── classification_model.pkl
+├── classification_model
 │
 └── README.md
 ```
